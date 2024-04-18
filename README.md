@@ -1,1 +1,2 @@
-# change-string-to-binary
+# change-everything-to-binary
+runt it on vscode 
